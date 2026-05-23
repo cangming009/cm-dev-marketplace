@@ -1,0 +1,23 @@
+{
+  "name": "cm-dev-marketplace",
+  "owner": {
+    "name": "cangming",
+    "email": "cangming009@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "HarmonyOS ArkTS 开发工具链",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cm-dev",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cangming009/cm-dev.git"
+      },
+      "description": "HarmonyOS ArkTS 开发工作流 — Spec/Plan/TDD/Fix/Verify 全流程。基于 ark-uikit 组件库。",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
