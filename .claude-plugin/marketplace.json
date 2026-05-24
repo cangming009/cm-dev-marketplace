@@ -16,7 +16,7 @@
         "url": "https://github.com/cangming009/cm-dev.git"
       },
       "description": "HarmonyOS ArkTS \u5f00\u53d1\u5de5\u4f5c\u6d41 \u2014 Spec/Plan/TDD/Fix/Verify \u5168\u6d41\u7a0b\u3002\u57fa\u4e8e ark-uikit \u7ec4\u4ef6\u5e93\u3002",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "strict": true
     }
   ]
